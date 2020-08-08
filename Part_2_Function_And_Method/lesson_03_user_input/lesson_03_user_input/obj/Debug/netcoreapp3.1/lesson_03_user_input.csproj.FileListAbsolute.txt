@@ -1,0 +1,12 @@
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\bin\Debug\netcoreapp3.1\lesson_03_user_input.exe
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\bin\Debug\netcoreapp3.1\lesson_03_user_input.deps.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\bin\Debug\netcoreapp3.1\lesson_03_user_input.runtimeconfig.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\bin\Debug\netcoreapp3.1\lesson_03_user_input.runtimeconfig.dev.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\bin\Debug\netcoreapp3.1\lesson_03_user_input.dll
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\bin\Debug\netcoreapp3.1\lesson_03_user_input.pdb
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\obj\Debug\netcoreapp3.1\lesson_03_user_input.AssemblyInfoInputs.cache
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\obj\Debug\netcoreapp3.1\lesson_03_user_input.AssemblyInfo.cs
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\obj\Debug\netcoreapp3.1\lesson_03_user_input.csproj.CoreCompileInputs.cache
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\obj\Debug\netcoreapp3.1\lesson_03_user_input.dll
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\obj\Debug\netcoreapp3.1\lesson_03_user_input.pdb
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_03_user_input\lesson_03_user_input\obj\Debug\netcoreapp3.1\lesson_03_user_input.genruntimeconfig.cache

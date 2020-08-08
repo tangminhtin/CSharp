@@ -1,0 +1,13 @@
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\bin\Debug\netcoreapp3.1\lesson_01_void_method.exe
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\bin\Debug\netcoreapp3.1\lesson_01_void_method.deps.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\bin\Debug\netcoreapp3.1\lesson_01_void_method.runtimeconfig.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\bin\Debug\netcoreapp3.1\lesson_01_void_method.runtimeconfig.dev.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\bin\Debug\netcoreapp3.1\lesson_01_void_method.dll
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\bin\Debug\netcoreapp3.1\lesson_01_void_method.pdb
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\obj\Debug\netcoreapp3.1\lesson_01_void_method.csprojAssemblyReference.cache
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\obj\Debug\netcoreapp3.1\lesson_01_void_method.AssemblyInfoInputs.cache
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\obj\Debug\netcoreapp3.1\lesson_01_void_method.AssemblyInfo.cs
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\obj\Debug\netcoreapp3.1\lesson_01_void_method.csproj.CoreCompileInputs.cache
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\obj\Debug\netcoreapp3.1\lesson_01_void_method.dll
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\obj\Debug\netcoreapp3.1\lesson_01_void_method.pdb
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_01_void_method\lesson_01_void_method\obj\Debug\netcoreapp3.1\lesson_01_void_method.genruntimeconfig.cache

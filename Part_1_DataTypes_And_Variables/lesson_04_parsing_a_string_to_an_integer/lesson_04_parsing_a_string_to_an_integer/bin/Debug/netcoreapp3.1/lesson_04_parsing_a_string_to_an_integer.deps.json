@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lesson_04_parsing_a_string_to_an_integer/1.0.0": {
+        "runtime": {
+          "lesson_04_parsing_a_string_to_an_integer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson_04_parsing_a_string_to_an_integer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson_05_range_of_datatypes", "lesson_05_range_of_datatypes\lesson_05_range_of_datatypes.csproj", "{3E724952-439A-402A-BA1C-677D2E504324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E724952-439A-402A-BA1C-677D2E504324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E724952-439A-402A-BA1C-677D2E504324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E724952-439A-402A-BA1C-677D2E504324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E724952-439A-402A-BA1C-677D2E504324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419A4A24-341B-4F5D-9646-A33934EA35EE}
+	EndGlobalSection
+EndGlobal

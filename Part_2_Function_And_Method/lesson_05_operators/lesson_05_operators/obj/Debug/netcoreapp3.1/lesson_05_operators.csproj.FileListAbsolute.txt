@@ -1,0 +1,12 @@
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\bin\Debug\netcoreapp3.1\lesson_05_operators.exe
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\bin\Debug\netcoreapp3.1\lesson_05_operators.deps.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\bin\Debug\netcoreapp3.1\lesson_05_operators.runtimeconfig.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\bin\Debug\netcoreapp3.1\lesson_05_operators.runtimeconfig.dev.json
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\bin\Debug\netcoreapp3.1\lesson_05_operators.dll
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\bin\Debug\netcoreapp3.1\lesson_05_operators.pdb
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\obj\Debug\netcoreapp3.1\lesson_05_operators.AssemblyInfoInputs.cache
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\obj\Debug\netcoreapp3.1\lesson_05_operators.AssemblyInfo.cs
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\obj\Debug\netcoreapp3.1\lesson_05_operators.csproj.CoreCompileInputs.cache
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\obj\Debug\netcoreapp3.1\lesson_05_operators.dll
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\obj\Debug\netcoreapp3.1\lesson_05_operators.pdb
+D:\Sources\CSharp\Part_2_Function_And_Method\lesson_05_operators\lesson_05_operators\obj\Debug\netcoreapp3.1\lesson_05_operators.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\bin\Debug\netcoreapp3.1\lesson_06_constant.exe
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\bin\Debug\netcoreapp3.1\lesson_06_constant.deps.json
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\bin\Debug\netcoreapp3.1\lesson_06_constant.runtimeconfig.json
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\bin\Debug\netcoreapp3.1\lesson_06_constant.runtimeconfig.dev.json
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\bin\Debug\netcoreapp3.1\lesson_06_constant.dll
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\bin\Debug\netcoreapp3.1\lesson_06_constant.pdb
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\obj\Debug\netcoreapp3.1\lesson_06_constant.AssemblyInfoInputs.cache
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\obj\Debug\netcoreapp3.1\lesson_06_constant.AssemblyInfo.cs
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\obj\Debug\netcoreapp3.1\lesson_06_constant.csproj.CoreCompileInputs.cache
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\obj\Debug\netcoreapp3.1\lesson_06_constant.dll
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\obj\Debug\netcoreapp3.1\lesson_06_constant.pdb
+D:\Sources\CSharp\Part_1_DataTypes_And_Variables\lesson_06_constant\lesson_06_constant\obj\Debug\netcoreapp3.1\lesson_06_constant.genruntimeconfig.cache
